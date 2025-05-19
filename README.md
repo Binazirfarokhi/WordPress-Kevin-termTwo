@@ -13,3 +13,6 @@ assignment:
 https://wrmf.ca/posts/wordpress-fse-exercise-atomized-2024/
 create logo for free : 
 https://www.adobe.com/express/create/logo
+-----
+all website from students : 
+https://wrmf.net/posts/student-work-examples/
